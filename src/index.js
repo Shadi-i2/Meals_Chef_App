@@ -8,7 +8,7 @@ import { BrowserRouter as Router } from "react-router-dom";
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <StrictMode>
-    <Router>
+    <Router basename="/Meals_Chef_App">
       <App />
     </Router>
   </StrictMode>
