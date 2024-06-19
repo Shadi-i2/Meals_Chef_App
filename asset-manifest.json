@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Meals_Chef_App/static/css/main.701a0c21.css",
+    "main.js": "/Meals_Chef_App/static/js/main.72dea5d6.js",
+    "static/media/defaultMealImg.jpg": "/Meals_Chef_App/static/media/defaultMealImg.cf7e4f2b9458d6a1bd33.jpg",
+    "static/media/404.png": "/Meals_Chef_App/static/media/404.19d52f6c6d4a56350dcd.png",
+    "static/media/mealschefLogo.png": "/Meals_Chef_App/static/media/mealschefLogo.d5adda014d2c4d4b5288.png",
+    "static/media/mealschefLogo-black.png": "/Meals_Chef_App/static/media/mealschefLogo-black.cdb0f7c0bcf4ea217fbb.png",
+    "index.html": "/Meals_Chef_App/index.html",
+    "main.701a0c21.css.map": "/Meals_Chef_App/static/css/main.701a0c21.css.map",
+    "main.72dea5d6.js.map": "/Meals_Chef_App/static/js/main.72dea5d6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.701a0c21.css",
+    "static/js/main.72dea5d6.js"
+  ]
+}
